@@ -23,15 +23,3 @@ const Athena = {
   domains: ["AI", "Web3", "Open Source"],
   mindset: "Build. Learn. Evolve.",
 };
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Athena%20Drakos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athena-drakos-a672ab350)
-[![Twitter](https://img.shields.io/badge/Twitter-@Athena_Drakos-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Athena_Drakos)
-[![Telegram](https://img.shields.io/badge/Telegram-@AthenaPrimeDeFi-0088CC?style=for-the-badge&logo=telegram)](https://t.me/AthenaPrimeDeFi)
-
----
-
-> _"My code is my story. Every line is a step forward."_ 🚀

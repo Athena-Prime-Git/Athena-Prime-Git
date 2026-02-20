@@ -23,3 +23,49 @@ const Athena = {
   domains: ["AI", "Web3", "Open Source"],
   mindset: "Build. Learn. Evolve.",
 };
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Athena-Prime-Git&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athena-Prime-Git&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Athena-Prime-Git&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Athena-Prime-Git/Athena-Prime-Git/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/athena-drakos-a672ab350">
+    <img src="https://img.shields.io/badge/LinkedIn-Athena%20Drakos-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/Athena_Drakos">
+    <img src="https://img.shields.io/badge/X-@Athena_Drakos-black?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="https://t.me/AthenaPrimeDeFi">
+    <img src="https://img.shields.io/badge/Telegram-AthenaPrimeDeFi-0088CC?style=for-the-badge&logo=telegram"/>
+  </a>
+</p>
+
+---
+
+> Code is memory. Memory is power. 🦅
